@@ -1,8 +1,14 @@
  * {background: #090;
-   font-family: cursive;
-  font-size:30px
+   font-family: sans-serif;
+  font-size:30px;
+
+
 
 }
-p {
-
+.l{
+  color: red;
+}
+footer {
+  right: 50px;
+  font-size: 20px;
 }
